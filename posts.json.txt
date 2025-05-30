@@ -1,0 +1,10 @@
+[
+    {
+        "title": "Karibu kwenye blogu yangu",
+        "content": "Hii ni post yangu ya kwanza. Karibu ujifunze mambo mbalimbali!"
+    },
+    {
+        "title": "Posti ya Pili",
+        "content": "Hii ni posti ya pili kwenye blogu. Tutajifunza HTML, CSS, na JavaScript."
+    }
+]

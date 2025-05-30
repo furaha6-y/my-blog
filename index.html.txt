@@ -1,0 +1,8 @@
+<div class="comments-section">
+  <h4>Maoni</h4>
+  <ul class="comments-list" data-id="${post.id}"></ul>
+  <form class="comment-form" data-id="${post.id}">
+    <input type="text" placeholder="Andika maoni yako..." required />
+    <button type="submit">Tuma</button>
+  </form>
+</div>

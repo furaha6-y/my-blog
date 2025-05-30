@@ -1,0 +1,22 @@
+.comments-section {
+  margin-top: 15px;
+  background: #f7f7f7;
+  padding: 10px;
+  border-radius: 5px;
+}
+.comments-list {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 10px;
+}
+.comments-list li {
+  padding: 5px 0;
+  border-bottom: 1px solid #ddd;
+}
+.comment-form input {
+  padding: 5px;
+  width: 70%;
+}
+.comment-form button {
+  padding: 5px 10px;
+}
